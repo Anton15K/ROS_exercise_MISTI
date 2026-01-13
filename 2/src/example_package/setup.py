@@ -25,7 +25,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'example_blank_node = example_package.example_node:main'
+            'example_node = example_package.example_node:main'
         ],
     },
 )
